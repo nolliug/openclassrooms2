@@ -1,0 +1,22 @@
+h1
+{
+    color: red;
+}
+
+.centrer
+{
+text-align: center;    
+}
+
+body
+{
+    background-image: url(mer.jpg);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.photo2
+{
+border: 5px solid white;
+box-shadow: 10px 5px 5px red;
+}
+
